@@ -2,7 +2,7 @@
 
 Archive of a live motion art program made in 2017 that utilizes Three.js.
 
-## [Live Demo](https://artgen.jep.dev)
+[Live Demo](https://artgen.jep.dev)
 
 ## Installation
 
