@@ -26,7 +26,7 @@ npm run start
 npm run build
 ```
 
-## Usage
+## Controls
 
 | Key | Function
 | --- | --- |
